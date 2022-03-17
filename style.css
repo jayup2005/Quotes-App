@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300;400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    
+
+}
+
+body{
+    background-color: rgb(56, 169, 245);
+    overflow: hidden;
+}
+
+.card{
+    background-color: #fff;
+    width: 26rem;
+    height: 24rem;
+    margin: auto;
+    text-align: center;
+    position: relative;
+    top: 10rem;
+    
+}
+.icon{
+    font-size: 40px;
+    position: relative;
+    top: 1rem;
+    right: 8rem;
+
+}
+.p1{
+    position: relative;
+    top: 0rem;
+}
+
+.card p {
+    font-size: 35px;
+    position: relative;
+    top:  5rem;
+    font-family: 'Dancing Script';
+}
+#quote2{
+    position: relative;
+    top: 10rem;
+    color:rgb(3, 3, 3);
+    font-size: 25px;
+    overflow: hidden;
+    font-family: 'Fredoka', sans-serif;
+}
+
+button{
+    width: 26rem;
+    height: 3.5rem;
+    position: relative;
+    top: 13.5rem;
+    text-align: center;
+    font-size: 25px;
+    background-color: rgb(7, 119, 194);
+    border: none;
+    font-family: 'Fredoka', sans-serif;
+}
